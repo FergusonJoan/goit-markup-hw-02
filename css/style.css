@@ -12,9 +12,7 @@
     --footer-bg-color: #2F303A;
 }
 body {
-    background-color: var(--primary-bg-color);
     color: var(--primary-text-color);
-
     font-family: Roboto, sans-serif;
     font-size: 14px;
     font-weight: 400;
@@ -139,8 +137,6 @@ body {
 /* PORTFOLIO */
 .main {
 }
-.filter {
-}
 .button {
     background-color: var(--sec-bg-color);
     color: var(--primary-text-color);
@@ -157,16 +153,16 @@ body {
 }
 .gallery {
 }
-.gallerey-heading {
+.gallery-heading {
 }
-.gallerey-title {
+.gallery-title {
     color: var(--primary-text-color);
     font-weight: 700;
     font-size: 18px;
     line-height: 2.0;
     letter-spacing: 0.06em;
 }
-.gallerey-subtitle {
+.gallery-subtitle {
     color: var(--sec-text-color);
     font-weight: 400;
     font-size: 16px;
