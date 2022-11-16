@@ -59,7 +59,9 @@ body {
 }
 .link:hover,
 .link:focus,
-.cont:hover {
+.cont:hover,
+.mail:hover,
+.tel:hover {
     color: var(--accent-color);
 }
 .current {
@@ -198,5 +200,4 @@ body {
 .tel {
     color: var(--footer-contacts-color);
     text-decoration: none;
-    font-weight: 400;
 }
